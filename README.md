@@ -1,2 +1,3 @@
-# bjxt
-A vue.js project for price comparing
+# 比价系统
+
+毕业时的作品，仅留作纪念。
